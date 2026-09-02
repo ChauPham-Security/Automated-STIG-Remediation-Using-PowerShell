@@ -7,7 +7,7 @@
 
 This repository documents and automates remediation for **10 DISA Microsoft Windows 10 STIG V3R1 controls** on a Windows 10 virtual machine hosted in Azure.
 
-The goal is to demonstrate a practical STIG hardening workflow that looks like real security work:
+The goal is to demonstrate a practical STIG hardening workflow:
 
 - Select relevant STIG controls
 - Implement secure configuration changes
